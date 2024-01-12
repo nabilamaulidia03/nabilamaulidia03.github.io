@@ -1,0 +1,12 @@
+{
+  "name": "portofolio-nabila",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev" : "tailwindcss -i ./src/css/input.css -o ./css/style.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
